@@ -1,0 +1,5 @@
+# База данных программного обеспечения
+
+Excel|200,00|Tables|Release|2.9.2004|23000|Linux|5,0
+Word|300,00|Program for editing|Release|20.10.1996|600000|Windows|5,0
+Ods Studio|400,00|Record of screen|Release|3.3.2004|400000|Linux|4,9
